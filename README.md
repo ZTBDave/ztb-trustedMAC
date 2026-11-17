@@ -121,7 +121,3 @@ python3 ztb-trustedmac-update.py \--delete "00:11:22:33:44:55, AA:BB:CC:DD:EE:FF
 For large CSV uploads (e.g., thousands of MAC addresses), override the default batch size (default: 500):
 
 python3 ztb-trustedmac-update.py \--csv large\_inventory.csv \--batch-size 250
-
----
-
-Would you like to add any other sections, such as exit codes or troubleshooting steps for token expiration?
